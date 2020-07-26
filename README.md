@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**amypellegrini/amypellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Amy Pellegrini. I'm a Pianist and Software Developer based in London.
 
-Here are some ideas to get you started:
+I'm currently working on some projects, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JazzPianoAcademy](https://jazzpiano.academy) a website with educational resources on Jazz Piano
+- [React ScoreWriter](https://github.com/amypellegrini/react-scorewriter) a sheet music rendering engine for React
+
+My main interests (at the moment) are:
+
+- Music
+- Coding/Machine learning/AI
+- Yoga
