@@ -9,6 +9,6 @@ I'm currently working on some projects, including:
 
 My main interests (at the moment) are:
 
-- JazzPiano
-- Coding/Machine learning/AI
+- Jazz Piano
+- Software Development
 - Yoga/Fitness
